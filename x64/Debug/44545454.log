@@ -1,0 +1,18 @@
+﻿  44545454.cpp
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(64,10): error C2337: in: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(64,10): error C2337: optional: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(65,10): error C2337: in: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(65,17): error C2337: out: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(65,27): error C2337: optional: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(66,10): error C2337: in: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(66,22): error C2337: optional: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(67,10): error C2337: in: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(67,22): error C2337: optional: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(68,10): error C2337: in: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(69,10): error C2337: in: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(70,10): error C2337: in: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(70,22): error C2337: optional: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(71,10): error C2337: in: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(71,22): error C2337: optional: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(72,10): error C2337: in: атрибут не найден
+C:\Users\Satou\source\repos\44545454\44545454\44545454.cpp(73,10): error C2337: out: атрибут не найден
